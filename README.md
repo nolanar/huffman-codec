@@ -11,6 +11,6 @@ A program for lossless data compression using Huffman code. The canonical form o
 #### To-Do
 
 * File coder.
-* Codebook file.
+* Codebook file generator/interpreter.
 * File decoder.
 * Create documentation.
